@@ -1,6 +1,6 @@
 # 🌐 All Platforms – Nirob Digital Ecosystem
 
-> Complete reference of websites, APIs, tools, and services for Web3, AI, automation, and online income.
+> Complete reference of websites, APIs, tools, and services for Web3, AI, automation, online income, **networking**, and **cybersecurity**.
 
 ---
 
@@ -172,7 +172,110 @@
 
 ---
 
-## 12. My Personal Accounts (Keep Secure)
+## 12. 🔐 NETWORKING PLATFORMS & TOOLS
+
+| Platform | URL | Purpose | Free Tier |
+|----------|-----|---------|------------|
+| **Cloudflare** | cloudflare.com | CDN, DNS, DDoS protection, Tunnel | Yes (free plan) |
+| **Cloudflare Tunnel** | developers.cloudflare.com/cloudflare-tunnel | Expose local servers securely | Free |
+| **Ngrok** | ngrok.com | Secure tunnel to localhost | Yes (1 tunnel, 1 GB/month) |
+| **Tailscale** | tailscale.com | Zero-trust VPN, mesh network | Free (3 users, 100 devices) |
+| **ZeroTier** | zerotier.com | Virtual LAN, SD-WAN | Free (25 devices) |
+| **WireGuard** | wireguard.com | Fast, modern VPN protocol | Free open-source |
+| **OpenVPN** | openvpn.net | Traditional VPN server | Free (self-hosted) |
+| **Pi-hole** | pi-hole.net | Network-wide ad blocking (DNS sinkhole) | Free open-source |
+| **UptimeRobot** | uptimerobot.com | Monitor website uptime | Free (50 monitors, 5 min interval) |
+| **Better Uptime** | betteruptime.com | Uptime monitoring + incident management | Free (15 min interval) |
+| **Pingdom** | pingdom.com | Website performance monitoring | Free trial (14 days) |
+| **Netdata** | netdata.cloud | Real-time server & network monitoring | Free (self-hosted) |
+| **Prometheus** | prometheus.io | Metrics collection & alerting | Free open-source |
+| **Grafana** | grafana.com | Dashboard & visualization | Free (self-hosted) |
+| **Wireshark** | wireshark.org | Packet analysis (network debugging) | Free open-source |
+| **Nmap** | nmap.org | Network discovery & security scanning | Free open-source |
+| **Angry IP Scanner** | angryip.org | Fast IP/port scanner | Free open-source |
+| **NetSpot** | netspotapp.com | WiFi analysis & site survey | Free (limited) |
+| **Fing** | fing.com | Network device discovery (mobile) | Free |
+| **mtr** | bitwizard.nl/mtr | Network diagnostics (traceroute + ping) | Free open-source |
+| **Telnet/SSH clients (PuTTY)** | putty.org | Remote terminal access | Free |
+| **Apache Guacamole** | guacamole.apache.org | Clientless remote desktop gateway | Free open-source |
+| **VNC Connect** | realvnc.com | Remote desktop access | Free (up to 5 devices) |
+| **TeamViewer** | teamviewer.com | Remote support & access | Free (personal use) |
+| **AnyDesk** | anydesk.com | Remote desktop | Free (personal use) |
+
+---
+
+## 13. 🛡️ SECURITY PLATFORMS & TOOLS
+
+| Platform | URL | Purpose | Free Tier |
+|----------|-----|---------|------------|
+| **Have I Been Pwned** | haveibeenpwned.com | Check if email/phone leaked in data breach | Free |
+| **Dehashed** | dehashed.com | Breach data search engine | Paid (free preview) |
+| **Virustotal** | virustotal.com | Scan files/URLs for malware (multi-engine) | Free (limited API) |
+| **Metasploit** | metasploit.help | Penetration testing framework | Free open-source |
+| **Burp Suite Community** | portswigger.net/burp/community | Web vulnerability scanner | Free |
+| **OWASP ZAP** | zaproxy.org | Web app security testing | Free open-source |
+| **Nessus Essentials** | tenable.com/products/nessus/nessus-essentials | Vulnerability scanner | Free (16 IPs) |
+| **OpenVAS** | greenbone.net | Vulnerability scanning (fork of Nessus) | Free open-source |
+| **Kali Linux** | kali.org | Penetration testing OS | Free open-source |
+| **Parrot OS** | parrotsec.org | Security & privacy OS | Free open-source |
+| **Wazuh** | wazuh.com | Security monitoring & SIEM | Free open-source |
+| **Security Onion** | securityonionsolutions.com | Network security monitoring | Free open-source |
+| **Snort** | snort.org | Intrusion detection system (IDS) | Free open-source |
+| **Suricata** | suricata.io | High-performance IDS/IPS | Free open-source |
+| **ClamAV** | clamav.net | Antivirus (open-source) | Free |
+| **Bitdefender Free** | bitdefender.com | Free antivirus (Windows) | Free |
+| **Kaspersky Free** | kaspersky.com | Free antivirus | Free |
+| **Malwarebytes Free** | malwarebytes.com | Malware scanner & removal | Free (manual scan) |
+| **uBlock Origin** | ublockorigin.com | Ad blocker & privacy (browser extension) | Free open-source |
+| **Privacy Badger** | privacybadger.org | Blocks trackers (EFF) | Free |
+| **HTTPS Everywhere** | eff.org/https-everywhere | Enforce HTTPS connections | Free |
+| **ProtonVPN** | protonvpn.com | Secure VPN (no logs) | Free (limited servers) |
+| **TunnelBear** | tunnelbear.com | Simple VPN | Free (500 MB/month) |
+| **Tor Browser** | torproject.org | Anonymous browsing | Free open-source |
+| **Signal** | signal.org | Encrypted messaging | Free |
+| **Telegram (Secret Chats)** | telegram.org | Encrypted messaging | Free |
+| **Bitwarden** | bitwarden.com | Password manager | Free (unlimited passwords) |
+| **KeePass** | keepass.info | Offline password manager | Free open-source |
+| **Veracrypt** | veracrypt.fr | Disk/partition encryption | Free open-source |
+| **GnuPG (GPG)** | gnupg.org | File/email encryption | Free open-source |
+| **Let's Encrypt** | letsencrypt.org | Free SSL/TLS certificates | Free |
+| **SSL Labs** | ssllabs.com | Test SSL/TLS configuration | Free |
+| **SecurityHeaders.com** | securityheaders.com | Check HTTP security headers | Free |
+| **Mozilla Observatory** | observatory.mozilla.org | Website security scanner | Free |
+| **Shodan** | shodan.io | Search engine for internet-connected devices | Free (limited) |
+| **Censys** | censys.io | Internet asset discovery | Free (limited) |
+| **GreyNoise** | greynoise.io | Filter benign vs malicious internet scanners | Free (limited) |
+| **AlienVault OTX** | otx.alienvault.com | Open threat intelligence | Free |
+| **MISP** | misp-project.org | Threat intelligence sharing platform | Free open-source |
+| **TheHive** | thehive-project.org | Incident response platform | Free open-source |
+| **Cortex** | cortex.thehive-project.org | Observable analyzers | Free open-source |
+| **GRC ShieldsUP** | grc.com/shieldsup | Test firewall/port stealth | Free |
+| **IPVoid** | ipvoid.com | IP reputation & blacklist check | Free |
+| **AbuseIPDB** | abuseipdb.com | Report/check malicious IPs | Free (limited API) |
+| **URLScan.io** | urlscan.io | Scan websites for malicious behavior | Free |
+| **Joe Sandbox** | joesandbox.com | Malware analysis sandbox | Free (limited) |
+| **Hybrid Analysis** | hybrid-analysis.com | Free malware analysis | Free |
+| **Cuckoo Sandbox** | cuckoosandbox.org | Open-source malware analysis | Free open-source |
+
+---
+
+## 14. 🧪 SECURITY LEARNING & PRACTICE (CTF)
+
+| Platform | URL | Purpose | Free Tier |
+|----------|-----|---------|------------|
+| **Hack The Box** | hackthebox.com | Ethical hacking labs (CTF) | Free (basic) |
+| **TryHackMe** | tryhackme.com | Guided security training | Free (basic rooms) |
+| **OverTheWire** | overthewire.org | Wargames (Bandit, etc.) | Free |
+| **PicoCTF** | picoctf.org | CTF for beginners | Free |
+| **CTFtime** | ctftime.org | CTF team/event tracking | Free |
+| **PentesterLab** | pentesterlab.com | Web app pentesting exercises | Free (limited) |
+| **PortSwigger Web Security Academy** | portswigger.net/web-security | Free web security training | Free |
+| **OWASP Juice Shop** | juice-shop.herokuapp.com | Vulnerable web app for practice | Free |
+| **DVWA (Damn Vulnerable Web App)** | github.com/digininja/DVWA | Vulnerable PHP/MySQL app | Free open-source |
+
+---
+
+## 15. My Personal Accounts (Keep Secure)
 
 | Platform | Email / Username |
 |----------|------------------|
@@ -186,17 +289,54 @@
 | **YouTube** | Nirob Trends |
 | **Twitter/Instagram** | @nirobtrends |
 | **Mailchimp** | tanzimtakbir@gmail.com |
+| **Cloudflare** | tanzimtakbir@gmail.com |
+| **Have I Been Pwned** | tanzimtakbir@gmail.com |
+| **Bitwarden** | tanzimtakbir@gmail.com |
+| **ProtonVPN** | tanzimtakbir@gmail.com |
+| **Hack The Box** | tanzimtakbir@gmail.com |
 
 ---
 
-## 🔐 Security Note
+## 🔐 SECURITY & NETWORK BEST PRACTICES
 
-- Use **unique strong passwords** for each platform (Bitwarden or pen & paper in safe place)
-- Enable **2FA** wherever possible (especially crypto exchanges & email)
-- Never share API keys or seed phrases
-- Keep a **backup of all credentials** in a sealed envelope
+### For Your Digital Life:
+- **Password Manager**: Use Bitwarden or KeePass (unique password per site)
+- **2FA Everywhere**: Use TOTP (Google Authenticator, Aegis) or hardware key (YubiKey)
+- **Backup Codes**: Store offline (printed or encrypted USB)
+- **VPN for public WiFi**: Use ProtonVPN free or WireGuard self-hosted
+- **Update software regularly**: Enable auto-updates where possible
+- **Check breaches**: Run email at Have I Been Pwned quarterly
+- **Lock down crypto**: Use hardware wallet for large holdings (Ledger/Trezor)
+
+### For Your Servers/Websites:
+- **Use Cloudflare** for DDoS protection & WAF
+- **SSL/TLS**: Always use Let's Encrypt free certificates
+- **Firewall**: Configure `ufw` (Linux) or use Cloudflare Tunnel
+- **SSH**: Disable root login, use key-based auth, change default port
+- **Backups**: Automated daily backups (offsite + local)
+- **Monitoring**: UptimeRobot + Netdata for server health
+
+### For Learning Security (Start Here):
+1. OverTheWire (Bandit) → Linux basics
+2. TryHackMe (Pre Security path) → Fundamentals
+3. PortSwigger Academy → Web security
+4. Hack The Box (Starting Point) → Practical labs
 
 ---
 
-*Last updated: 4 April 2026*  
-*Maintainer: Nirob (MD. UZZOL HOSSIN NIROB)*
+## 📦 Tool Installation (Quick Commands)
+
+### Linux / Termux (Android):
+```bash
+# Network tools
+pkg install nmap wireshark tcpdump netcat-openbsd mtr
+
+# Security tools
+pkg install hydra sqlmap metasploit
+
+# Monitoring
+pkg install htop nethogs iftop iptraf-ng
+
+# Termux specific
+pkg install root-repo unstable-repo
+pkg install kali-linux-all  # (selective install better)
