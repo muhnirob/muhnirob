@@ -1,5 +1,36 @@
-# Nirob Digital – All 100 Product URLs
+# Nirob Digital – Complete URL List
 
+## Lock Pages
+- https://www.nirobdigital.com/lock/
+- https://www.nirobdigital.com/lock/100-products_.html
+- https://www.nirobdigital.com/lock/action-plan_.html
+- https://www.nirobdigital.com/lock/inventory.html
+- https://www.nirobdigital.com/lock/lock-goal.html
+
+## Main Site & Category Pages
+- https://www.nirobdigital.com/
+- https://www.nirobdigital.com/monetization-tools
+- https://www.nirobdigital.com/podcast-launch-kit
+- https://www.nirobdigital.com/ai-show-notes
+- https://www.nirobdigital.com/podcast-seo
+- https://www.nirobdigital.com/social-growth
+- https://www.nirobdigital.com/email-system
+- https://www.nirobdigital.com/gear-reviews
+- https://www.nirobdigital.com/podcast-tools
+
+## Digital Product Category Pages
+- https://www.nirobdigital.com/digital-product/
+- https://www.nirobdigital.com/digital-product/ai-show-notes.html
+- https://www.nirobdigital.com/digital-product/podcast-launch-kit.html
+- https://www.nirobdigital.com/digital-product/business-tools.html
+- https://www.nirobdigital.com/digital-product/podcast-seo.html
+- https://www.nirobdigital.com/digital-product/email-system.html
+- https://www.nirobdigital.com/digital-product/podcast-tools.html
+- https://www.nirobdigital.com/digital-product/gear-reviews.html
+- https://www.nirobdigital.com/digital-product/social-growth.html
+- https://www.nirobdigital.com/digital-product/monetization-tools.html
+
+## All 100 Individual Product URLs
 - https://www.nirobdigital.com/podcast-episode-script-template
 - https://www.nirobdigital.com/podcast-show-notes-checklist
 - https://www.nirobdigital.com/podcast-intro-outro-music-pack
