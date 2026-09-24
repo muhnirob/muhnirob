@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I'm Nirob
 
-**MD Uzzol Hossin Nirob** (aka **Amir Beetajian**)
+**MD Uzzol Hossin Nirob** (aka **MUH Nirob**)
 
 I build **SEO, podcast growth, and Web3 systems** that help creators and small businesses get discovered online.
 
